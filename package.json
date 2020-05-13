@@ -1,0 +1,23 @@
+{
+  "name": "minecraft-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DazSanchez/minecraft-bot.git"
+  },
+  "author": "DazSanchez <programacionhsv@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DazSanchez/minecraft-bot/issues"
+  },
+  "homepage": "https://github.com/DazSanchez/minecraft-bot#readme",
+  "dependencies": {
+    "mineflayer": "^2.14.1"
+  },
+  "devDependencies": {}
+}
